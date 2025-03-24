@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420695985'
-bip_39_word_dash_1: acid
-bip_39_word_dash_10: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz
-bip_39_word_dash_11: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz-grass
 bip_39_word_dash_12: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz-grass-aerobic
 bip_39_word_dash_2: acid-sense
 bip_39_word_dash_3: acid-sense-moment
-bip_39_word_dash_4: acid-sense-moment-angry
-bip_39_word_dash_5: acid-sense-moment-angry-basic
-bip_39_word_dash_6: acid-sense-moment-angry-basic-waste
-bip_39_word_dash_7: acid-sense-moment-angry-basic-waste-embrace
-bip_39_word_dash_8: acid-sense-moment-angry-basic-waste-embrace-sunset
-bip_39_word_dash_9: acid-sense-moment-angry-basic-waste-embrace-sunset-orange
-bip_39_word_new_br_1: acid
-bip_39_word_new_br_10: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz
-bip_39_word_new_br_11: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass
 bip_39_word_new_br_12: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass<br>aerobic
 bip_39_word_new_br_2: acid<br>sense
 bip_39_word_new_br_3: acid<br>sense<br>moment
-bip_39_word_new_br_4: acid<br>sense<br>moment<br>angry
-bip_39_word_new_br_5: acid<br>sense<br>moment<br>angry<br>basic
-bip_39_word_new_br_6: acid<br>sense<br>moment<br>angry<br>basic<br>waste
-bip_39_word_new_br_7: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace
-bip_39_word_new_br_8: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset
-bip_39_word_new_br_9: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange
-bip_39_word_new_line_1: acid
-bip_39_word_new_line_10: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste
-
-  embrace
-
-  sunset
-
-  orange
-
-  quiz'
-bip_39_word_new_line_11: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste
-
-  embrace
-
-  sunset
-
-  orange
-
-  quiz
-
-  grass'
 bip_39_word_new_line_12: 'acid
 
   sense
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'acid
   sense
 
   moment'
-bip_39_word_new_line_4: 'acid
-
-  sense
-
-  moment
-
-  angry'
-bip_39_word_new_line_5: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic'
-bip_39_word_new_line_6: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste'
-bip_39_word_new_line_7: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste
-
-  embrace'
-bip_39_word_new_line_8: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste
-
-  embrace
-
-  sunset'
-bip_39_word_new_line_9: 'acid
-
-  sense
-
-  moment
-
-  angry
-
-  basic
-
-  waste
-
-  embrace
-
-  sunset
-
-  orange'
-bip_39_word_no_space_1: acid
-bip_39_word_no_space_10: acidsensemomentangrybasicwasteembracesunsetorangequiz
-bip_39_word_no_space_11: acidsensemomentangrybasicwasteembracesunsetorangequizgrass
 bip_39_word_no_space_12: acidsensemomentangrybasicwasteembracesunsetorangequizgrassaerobic
 bip_39_word_no_space_2: acidsense
 bip_39_word_no_space_3: acidsensemoment
-bip_39_word_no_space_4: acidsensemomentangry
-bip_39_word_no_space_5: acidsensemomentangrybasic
-bip_39_word_no_space_6: acidsensemomentangrybasicwaste
-bip_39_word_no_space_7: acidsensemomentangrybasicwasteembrace
-bip_39_word_no_space_8: acidsensemomentangrybasicwasteembracesunset
-bip_39_word_no_space_9: acidsensemomentangrybasicwasteembracesunsetorange
-bip_39_word_space_0:
-- acid
-- sense
-- moment
-- angry
-- basic
-- waste
-- embrace
-- sunset
-- orange
-- quiz
-- grass
-- aerobic
-bip_39_word_space_1: acid
-bip_39_word_space_10: acid sense moment angry basic waste embrace sunset orange quiz
-bip_39_word_space_11: acid sense moment angry basic waste embrace sunset orange quiz
-  grass
 bip_39_word_space_12: acid sense moment angry basic waste embrace sunset orange quiz
   grass aerobic
 bip_39_word_space_2: acid sense
 bip_39_word_space_3: acid sense moment
-bip_39_word_space_4: acid sense moment angry
-bip_39_word_space_5: acid sense moment angry basic
-bip_39_word_space_6: acid sense moment angry basic waste
-bip_39_word_space_7: acid sense moment angry basic waste embrace
-bip_39_word_space_8: acid sense moment angry basic waste embrace sunset
-bip_39_word_space_9: acid sense moment angry basic waste embrace sunset orange
-bip_39_word_underscore_1: acid
-bip_39_word_underscore_10: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz
-bip_39_word_underscore_11: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz_grass
 bip_39_word_underscore_12: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz_grass_aerobic
 bip_39_word_underscore_2: acid_sense
 bip_39_word_underscore_3: acid_sense_moment
-bip_39_word_underscore_4: acid_sense_moment_angry
-bip_39_word_underscore_5: acid_sense_moment_angry_basic
-bip_39_word_underscore_6: acid_sense_moment_angry_basic_waste
-bip_39_word_underscore_7: acid_sense_moment_angry_basic_waste_embrace
-bip_39_word_underscore_8: acid_sense_moment_angry_basic_waste_embrace_sunset
-bip_39_word_underscore_9: acid_sense_moment_angry_basic_waste_embrace_sunset_orange
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -486,6 +314,7 @@ price_200_distributor_accu: '0.06'
 price_200_distributor_orbital_fasteners: '0.0266'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0266'
 quantity_current: '200'
 short_code: sc3b25h

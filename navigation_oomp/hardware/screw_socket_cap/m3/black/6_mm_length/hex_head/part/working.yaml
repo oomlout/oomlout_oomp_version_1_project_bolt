@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420695916'
-bip_39_word_dash_1: orphan
-bip_39_word_dash_10: orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct
-bip_39_word_dash_11: orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct-interest
 bip_39_word_dash_12: orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic-correct-interest-actress
 bip_39_word_dash_2: orphan-parrot
 bip_39_word_dash_3: orphan-parrot-nasty
-bip_39_word_dash_4: orphan-parrot-nasty-anger
-bip_39_word_dash_5: orphan-parrot-nasty-anger-trouble
-bip_39_word_dash_6: orphan-parrot-nasty-anger-trouble-sword
-bip_39_word_dash_7: orphan-parrot-nasty-anger-trouble-sword-bullet
-bip_39_word_dash_8: orphan-parrot-nasty-anger-trouble-sword-bullet-popular
-bip_39_word_dash_9: orphan-parrot-nasty-anger-trouble-sword-bullet-popular-picnic
-bip_39_word_new_br_1: orphan
-bip_39_word_new_br_10: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct
-bip_39_word_new_br_11: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest
 bip_39_word_new_br_12: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic<br>correct<br>interest<br>actress
 bip_39_word_new_br_2: orphan<br>parrot
 bip_39_word_new_br_3: orphan<br>parrot<br>nasty
-bip_39_word_new_br_4: orphan<br>parrot<br>nasty<br>anger
-bip_39_word_new_br_5: orphan<br>parrot<br>nasty<br>anger<br>trouble
-bip_39_word_new_br_6: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword
-bip_39_word_new_br_7: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet
-bip_39_word_new_br_8: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular
-bip_39_word_new_br_9: orphan<br>parrot<br>nasty<br>anger<br>trouble<br>sword<br>bullet<br>popular<br>picnic
-bip_39_word_new_line_1: orphan
-bip_39_word_new_line_10: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword
-
-  bullet
-
-  popular
-
-  picnic
-
-  correct'
-bip_39_word_new_line_11: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword
-
-  bullet
-
-  popular
-
-  picnic
-
-  correct
-
-  interest'
 bip_39_word_new_line_12: 'orphan
 
   parrot
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'orphan
   parrot
 
   nasty'
-bip_39_word_new_line_4: 'orphan
-
-  parrot
-
-  nasty
-
-  anger'
-bip_39_word_new_line_5: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble'
-bip_39_word_new_line_6: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword'
-bip_39_word_new_line_7: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword
-
-  bullet'
-bip_39_word_new_line_8: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword
-
-  bullet
-
-  popular'
-bip_39_word_new_line_9: 'orphan
-
-  parrot
-
-  nasty
-
-  anger
-
-  trouble
-
-  sword
-
-  bullet
-
-  popular
-
-  picnic'
-bip_39_word_no_space_1: orphan
-bip_39_word_no_space_10: orphanparrotnastyangertroubleswordbulletpopularpicniccorrect
-bip_39_word_no_space_11: orphanparrotnastyangertroubleswordbulletpopularpicniccorrectinterest
 bip_39_word_no_space_12: orphanparrotnastyangertroubleswordbulletpopularpicniccorrectinterestactress
 bip_39_word_no_space_2: orphanparrot
 bip_39_word_no_space_3: orphanparrotnasty
-bip_39_word_no_space_4: orphanparrotnastyanger
-bip_39_word_no_space_5: orphanparrotnastyangertrouble
-bip_39_word_no_space_6: orphanparrotnastyangertroublesword
-bip_39_word_no_space_7: orphanparrotnastyangertroubleswordbullet
-bip_39_word_no_space_8: orphanparrotnastyangertroubleswordbulletpopular
-bip_39_word_no_space_9: orphanparrotnastyangertroubleswordbulletpopularpicnic
-bip_39_word_space_0:
-- orphan
-- parrot
-- nasty
-- anger
-- trouble
-- sword
-- bullet
-- popular
-- picnic
-- correct
-- interest
-- actress
-bip_39_word_space_1: orphan
-bip_39_word_space_10: orphan parrot nasty anger trouble sword bullet popular picnic
-  correct
-bip_39_word_space_11: orphan parrot nasty anger trouble sword bullet popular picnic
-  correct interest
 bip_39_word_space_12: orphan parrot nasty anger trouble sword bullet popular picnic
   correct interest actress
 bip_39_word_space_2: orphan parrot
 bip_39_word_space_3: orphan parrot nasty
-bip_39_word_space_4: orphan parrot nasty anger
-bip_39_word_space_5: orphan parrot nasty anger trouble
-bip_39_word_space_6: orphan parrot nasty anger trouble sword
-bip_39_word_space_7: orphan parrot nasty anger trouble sword bullet
-bip_39_word_space_8: orphan parrot nasty anger trouble sword bullet popular
-bip_39_word_space_9: orphan parrot nasty anger trouble sword bullet popular picnic
-bip_39_word_underscore_1: orphan
-bip_39_word_underscore_10: orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct
-bip_39_word_underscore_11: orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct_interest
 bip_39_word_underscore_12: orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic_correct_interest_actress
 bip_39_word_underscore_2: orphan_parrot
 bip_39_word_underscore_3: orphan_parrot_nasty
-bip_39_word_underscore_4: orphan_parrot_nasty_anger
-bip_39_word_underscore_5: orphan_parrot_nasty_anger_trouble
-bip_39_word_underscore_6: orphan_parrot_nasty_anger_trouble_sword
-bip_39_word_underscore_7: orphan_parrot_nasty_anger_trouble_sword_bullet
-bip_39_word_underscore_8: orphan_parrot_nasty_anger_trouble_sword_bullet_popular
-bip_39_word_underscore_9: orphan_parrot_nasty_anger_trouble_sword_bullet_popular_picnic
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -487,6 +314,7 @@ price_200_distributor_accu: '0.02'
 price_200_distributor_orbital_fasteners: '0.018'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.018'
 quantity_current: '200'
 short_code: sc3b6h

@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420696005'
-bip_39_word_dash_1: best
-bip_39_word_dash_10: best-where-pull-law-broken-comic-use-appear-suggest-hawk
-bip_39_word_dash_11: best-where-pull-law-broken-comic-use-appear-suggest-hawk-fantasy
 bip_39_word_dash_12: best-where-pull-law-broken-comic-use-appear-suggest-hawk-fantasy-across
 bip_39_word_dash_2: best-where
 bip_39_word_dash_3: best-where-pull
-bip_39_word_dash_4: best-where-pull-law
-bip_39_word_dash_5: best-where-pull-law-broken
-bip_39_word_dash_6: best-where-pull-law-broken-comic
-bip_39_word_dash_7: best-where-pull-law-broken-comic-use
-bip_39_word_dash_8: best-where-pull-law-broken-comic-use-appear
-bip_39_word_dash_9: best-where-pull-law-broken-comic-use-appear-suggest
-bip_39_word_new_br_1: best
-bip_39_word_new_br_10: best<br>where<br>pull<br>law<br>broken<br>comic<br>use<br>appear<br>suggest<br>hawk
-bip_39_word_new_br_11: best<br>where<br>pull<br>law<br>broken<br>comic<br>use<br>appear<br>suggest<br>hawk<br>fantasy
 bip_39_word_new_br_12: best<br>where<br>pull<br>law<br>broken<br>comic<br>use<br>appear<br>suggest<br>hawk<br>fantasy<br>across
 bip_39_word_new_br_2: best<br>where
 bip_39_word_new_br_3: best<br>where<br>pull
-bip_39_word_new_br_4: best<br>where<br>pull<br>law
-bip_39_word_new_br_5: best<br>where<br>pull<br>law<br>broken
-bip_39_word_new_br_6: best<br>where<br>pull<br>law<br>broken<br>comic
-bip_39_word_new_br_7: best<br>where<br>pull<br>law<br>broken<br>comic<br>use
-bip_39_word_new_br_8: best<br>where<br>pull<br>law<br>broken<br>comic<br>use<br>appear
-bip_39_word_new_br_9: best<br>where<br>pull<br>law<br>broken<br>comic<br>use<br>appear<br>suggest
-bip_39_word_new_line_1: best
-bip_39_word_new_line_10: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic
-
-  use
-
-  appear
-
-  suggest
-
-  hawk'
-bip_39_word_new_line_11: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic
-
-  use
-
-  appear
-
-  suggest
-
-  hawk
-
-  fantasy'
 bip_39_word_new_line_12: 'best
 
   where
@@ -95,128 +36,16 @@ bip_39_word_new_line_3: 'best
   where
 
   pull'
-bip_39_word_new_line_4: 'best
-
-  where
-
-  pull
-
-  law'
-bip_39_word_new_line_5: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken'
-bip_39_word_new_line_6: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic'
-bip_39_word_new_line_7: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic
-
-  use'
-bip_39_word_new_line_8: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic
-
-  use
-
-  appear'
-bip_39_word_new_line_9: 'best
-
-  where
-
-  pull
-
-  law
-
-  broken
-
-  comic
-
-  use
-
-  appear
-
-  suggest'
-bip_39_word_no_space_1: best
-bip_39_word_no_space_10: bestwherepulllawbrokencomicuseappearsuggesthawk
-bip_39_word_no_space_11: bestwherepulllawbrokencomicuseappearsuggesthawkfantasy
 bip_39_word_no_space_12: bestwherepulllawbrokencomicuseappearsuggesthawkfantasyacross
 bip_39_word_no_space_2: bestwhere
 bip_39_word_no_space_3: bestwherepull
-bip_39_word_no_space_4: bestwherepulllaw
-bip_39_word_no_space_5: bestwherepulllawbroken
-bip_39_word_no_space_6: bestwherepulllawbrokencomic
-bip_39_word_no_space_7: bestwherepulllawbrokencomicuse
-bip_39_word_no_space_8: bestwherepulllawbrokencomicuseappear
-bip_39_word_no_space_9: bestwherepulllawbrokencomicuseappearsuggest
-bip_39_word_space_0:
-- best
-- where
-- pull
-- law
-- broken
-- comic
-- use
-- appear
-- suggest
-- hawk
-- fantasy
-- across
-bip_39_word_space_1: best
-bip_39_word_space_10: best where pull law broken comic use appear suggest hawk
-bip_39_word_space_11: best where pull law broken comic use appear suggest hawk fantasy
 bip_39_word_space_12: best where pull law broken comic use appear suggest hawk fantasy
   across
 bip_39_word_space_2: best where
 bip_39_word_space_3: best where pull
-bip_39_word_space_4: best where pull law
-bip_39_word_space_5: best where pull law broken
-bip_39_word_space_6: best where pull law broken comic
-bip_39_word_space_7: best where pull law broken comic use
-bip_39_word_space_8: best where pull law broken comic use appear
-bip_39_word_space_9: best where pull law broken comic use appear suggest
-bip_39_word_underscore_1: best
-bip_39_word_underscore_10: best_where_pull_law_broken_comic_use_appear_suggest_hawk
-bip_39_word_underscore_11: best_where_pull_law_broken_comic_use_appear_suggest_hawk_fantasy
 bip_39_word_underscore_12: best_where_pull_law_broken_comic_use_appear_suggest_hawk_fantasy_across
 bip_39_word_underscore_2: best_where
 bip_39_word_underscore_3: best_where_pull
-bip_39_word_underscore_4: best_where_pull_law
-bip_39_word_underscore_5: best_where_pull_law_broken
-bip_39_word_underscore_6: best_where_pull_law_broken_comic
-bip_39_word_underscore_7: best_where_pull_law_broken_comic_use
-bip_39_word_underscore_8: best_where_pull_law_broken_comic_use_appear
-bip_39_word_underscore_9: best_where_pull_law_broken_comic_use_appear_suggest
 box_of_box_size_manufacturer_metalmate: '3000'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -485,6 +314,7 @@ price_200_distributor_accu: '0.08'
 price_200_distributor_orbital_fasteners: '0.0336'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0336'
 quantity_current: '200'
 short_code: sc3b35h

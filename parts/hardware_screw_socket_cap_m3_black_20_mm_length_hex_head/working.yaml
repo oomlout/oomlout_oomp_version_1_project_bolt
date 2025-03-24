@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420695978'
-bip_39_word_dash_1: february
-bip_39_word_dash_10: february-explain-remove-witness-chair-domain-air-still-cook-market
-bip_39_word_dash_11: february-explain-remove-witness-chair-domain-air-still-cook-market-drink
 bip_39_word_dash_12: february-explain-remove-witness-chair-domain-air-still-cook-market-drink-assault
 bip_39_word_dash_2: february-explain
 bip_39_word_dash_3: february-explain-remove
-bip_39_word_dash_4: february-explain-remove-witness
-bip_39_word_dash_5: february-explain-remove-witness-chair
-bip_39_word_dash_6: february-explain-remove-witness-chair-domain
-bip_39_word_dash_7: february-explain-remove-witness-chair-domain-air
-bip_39_word_dash_8: february-explain-remove-witness-chair-domain-air-still
-bip_39_word_dash_9: february-explain-remove-witness-chair-domain-air-still-cook
-bip_39_word_new_br_1: february
-bip_39_word_new_br_10: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market
-bip_39_word_new_br_11: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market<br>drink
 bip_39_word_new_br_12: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook<br>market<br>drink<br>assault
 bip_39_word_new_br_2: february<br>explain
 bip_39_word_new_br_3: february<br>explain<br>remove
-bip_39_word_new_br_4: february<br>explain<br>remove<br>witness
-bip_39_word_new_br_5: february<br>explain<br>remove<br>witness<br>chair
-bip_39_word_new_br_6: february<br>explain<br>remove<br>witness<br>chair<br>domain
-bip_39_word_new_br_7: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air
-bip_39_word_new_br_8: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still
-bip_39_word_new_br_9: february<br>explain<br>remove<br>witness<br>chair<br>domain<br>air<br>still<br>cook
-bip_39_word_new_line_1: february
-bip_39_word_new_line_10: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain
-
-  air
-
-  still
-
-  cook
-
-  market'
-bip_39_word_new_line_11: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain
-
-  air
-
-  still
-
-  cook
-
-  market
-
-  drink'
 bip_39_word_new_line_12: 'february
 
   explain
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'february
   explain
 
   remove'
-bip_39_word_new_line_4: 'february
-
-  explain
-
-  remove
-
-  witness'
-bip_39_word_new_line_5: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair'
-bip_39_word_new_line_6: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain'
-bip_39_word_new_line_7: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain
-
-  air'
-bip_39_word_new_line_8: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain
-
-  air
-
-  still'
-bip_39_word_new_line_9: 'february
-
-  explain
-
-  remove
-
-  witness
-
-  chair
-
-  domain
-
-  air
-
-  still
-
-  cook'
-bip_39_word_no_space_1: february
-bip_39_word_no_space_10: februaryexplainremovewitnesschairdomainairstillcookmarket
-bip_39_word_no_space_11: februaryexplainremovewitnesschairdomainairstillcookmarketdrink
 bip_39_word_no_space_12: februaryexplainremovewitnesschairdomainairstillcookmarketdrinkassault
 bip_39_word_no_space_2: februaryexplain
 bip_39_word_no_space_3: februaryexplainremove
-bip_39_word_no_space_4: februaryexplainremovewitness
-bip_39_word_no_space_5: februaryexplainremovewitnesschair
-bip_39_word_no_space_6: februaryexplainremovewitnesschairdomain
-bip_39_word_no_space_7: februaryexplainremovewitnesschairdomainair
-bip_39_word_no_space_8: februaryexplainremovewitnesschairdomainairstill
-bip_39_word_no_space_9: februaryexplainremovewitnesschairdomainairstillcook
-bip_39_word_space_0:
-- february
-- explain
-- remove
-- witness
-- chair
-- domain
-- air
-- still
-- cook
-- market
-- drink
-- assault
-bip_39_word_space_1: february
-bip_39_word_space_10: february explain remove witness chair domain air still cook
-  market
-bip_39_word_space_11: february explain remove witness chair domain air still cook
-  market drink
 bip_39_word_space_12: february explain remove witness chair domain air still cook
   market drink assault
 bip_39_word_space_2: february explain
 bip_39_word_space_3: february explain remove
-bip_39_word_space_4: february explain remove witness
-bip_39_word_space_5: february explain remove witness chair
-bip_39_word_space_6: february explain remove witness chair domain
-bip_39_word_space_7: february explain remove witness chair domain air
-bip_39_word_space_8: february explain remove witness chair domain air still
-bip_39_word_space_9: february explain remove witness chair domain air still cook
-bip_39_word_underscore_1: february
-bip_39_word_underscore_10: february_explain_remove_witness_chair_domain_air_still_cook_market
-bip_39_word_underscore_11: february_explain_remove_witness_chair_domain_air_still_cook_market_drink
 bip_39_word_underscore_12: february_explain_remove_witness_chair_domain_air_still_cook_market_drink_assault
 bip_39_word_underscore_2: february_explain
 bip_39_word_underscore_3: february_explain_remove
-bip_39_word_underscore_4: february_explain_remove_witness
-bip_39_word_underscore_5: february_explain_remove_witness_chair
-bip_39_word_underscore_6: february_explain_remove_witness_chair_domain
-bip_39_word_underscore_7: february_explain_remove_witness_chair_domain_air
-bip_39_word_underscore_8: february_explain_remove_witness_chair_domain_air_still
-bip_39_word_underscore_9: february_explain_remove_witness_chair_domain_air_still_cook
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -487,6 +314,7 @@ price_200_distributor_accu: '0.06'
 price_200_distributor_orbital_fasteners: '0.023'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.023'
 quantity_current: '200'
 short_code: sc3b20h

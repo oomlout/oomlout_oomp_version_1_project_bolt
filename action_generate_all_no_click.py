@@ -5,12 +5,12 @@ import subprocess
 
 def main(**kwargs):
     #run working    
-    if True:
+    if False:
         import working
         working.main(**kwargs)
     
     #run scad
-    if True:
+    if False:
         import scad
         kwargs2 = copy.deepcopy(kwargs)
         kwargs2["typ"] = "all"
@@ -24,7 +24,7 @@ def main(**kwargs):
         action_build_oomp.main(**kwargs2)
 
     #run oolc process
-    if True:        
+    if False:        
         if not os.path.exists("temporary"):
             os.makedirs("temporary")   
         

@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420695923'
-bip_39_word_dash_1: sniff
-bip_39_word_dash_10: sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind
-bip_39_word_dash_11: sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind-nut
 bip_39_word_dash_12: sniff-tennis-win-maximum-alien-attack-dignity-employ-toss-blind-nut-analyst
 bip_39_word_dash_2: sniff-tennis
 bip_39_word_dash_3: sniff-tennis-win
-bip_39_word_dash_4: sniff-tennis-win-maximum
-bip_39_word_dash_5: sniff-tennis-win-maximum-alien
-bip_39_word_dash_6: sniff-tennis-win-maximum-alien-attack
-bip_39_word_dash_7: sniff-tennis-win-maximum-alien-attack-dignity
-bip_39_word_dash_8: sniff-tennis-win-maximum-alien-attack-dignity-employ
-bip_39_word_dash_9: sniff-tennis-win-maximum-alien-attack-dignity-employ-toss
-bip_39_word_new_br_1: sniff
-bip_39_word_new_br_10: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind
-bip_39_word_new_br_11: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind<br>nut
 bip_39_word_new_br_12: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss<br>blind<br>nut<br>analyst
 bip_39_word_new_br_2: sniff<br>tennis
 bip_39_word_new_br_3: sniff<br>tennis<br>win
-bip_39_word_new_br_4: sniff<br>tennis<br>win<br>maximum
-bip_39_word_new_br_5: sniff<br>tennis<br>win<br>maximum<br>alien
-bip_39_word_new_br_6: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack
-bip_39_word_new_br_7: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity
-bip_39_word_new_br_8: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ
-bip_39_word_new_br_9: sniff<br>tennis<br>win<br>maximum<br>alien<br>attack<br>dignity<br>employ<br>toss
-bip_39_word_new_line_1: sniff
-bip_39_word_new_line_10: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack
-
-  dignity
-
-  employ
-
-  toss
-
-  blind'
-bip_39_word_new_line_11: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack
-
-  dignity
-
-  employ
-
-  toss
-
-  blind
-
-  nut'
 bip_39_word_new_line_12: 'sniff
 
   tennis
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'sniff
   tennis
 
   win'
-bip_39_word_new_line_4: 'sniff
-
-  tennis
-
-  win
-
-  maximum'
-bip_39_word_new_line_5: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien'
-bip_39_word_new_line_6: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack'
-bip_39_word_new_line_7: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack
-
-  dignity'
-bip_39_word_new_line_8: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack
-
-  dignity
-
-  employ'
-bip_39_word_new_line_9: 'sniff
-
-  tennis
-
-  win
-
-  maximum
-
-  alien
-
-  attack
-
-  dignity
-
-  employ
-
-  toss'
-bip_39_word_no_space_1: sniff
-bip_39_word_no_space_10: snifftenniswinmaximumalienattackdignityemploytossblind
-bip_39_word_no_space_11: snifftenniswinmaximumalienattackdignityemploytossblindnut
 bip_39_word_no_space_12: snifftenniswinmaximumalienattackdignityemploytossblindnutanalyst
 bip_39_word_no_space_2: snifftennis
 bip_39_word_no_space_3: snifftenniswin
-bip_39_word_no_space_4: snifftenniswinmaximum
-bip_39_word_no_space_5: snifftenniswinmaximumalien
-bip_39_word_no_space_6: snifftenniswinmaximumalienattack
-bip_39_word_no_space_7: snifftenniswinmaximumalienattackdignity
-bip_39_word_no_space_8: snifftenniswinmaximumalienattackdignityemploy
-bip_39_word_no_space_9: snifftenniswinmaximumalienattackdignityemploytoss
-bip_39_word_space_0:
-- sniff
-- tennis
-- win
-- maximum
-- alien
-- attack
-- dignity
-- employ
-- toss
-- blind
-- nut
-- analyst
-bip_39_word_space_1: sniff
-bip_39_word_space_10: sniff tennis win maximum alien attack dignity employ toss blind
-bip_39_word_space_11: sniff tennis win maximum alien attack dignity employ toss blind
-  nut
 bip_39_word_space_12: sniff tennis win maximum alien attack dignity employ toss blind
   nut analyst
 bip_39_word_space_2: sniff tennis
 bip_39_word_space_3: sniff tennis win
-bip_39_word_space_4: sniff tennis win maximum
-bip_39_word_space_5: sniff tennis win maximum alien
-bip_39_word_space_6: sniff tennis win maximum alien attack
-bip_39_word_space_7: sniff tennis win maximum alien attack dignity
-bip_39_word_space_8: sniff tennis win maximum alien attack dignity employ
-bip_39_word_space_9: sniff tennis win maximum alien attack dignity employ toss
-bip_39_word_underscore_1: sniff
-bip_39_word_underscore_10: sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind
-bip_39_word_underscore_11: sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind_nut
 bip_39_word_underscore_12: sniff_tennis_win_maximum_alien_attack_dignity_employ_toss_blind_nut_analyst
 bip_39_word_underscore_2: sniff_tennis
 bip_39_word_underscore_3: sniff_tennis_win
-bip_39_word_underscore_4: sniff_tennis_win_maximum
-bip_39_word_underscore_5: sniff_tennis_win_maximum_alien
-bip_39_word_underscore_6: sniff_tennis_win_maximum_alien_attack
-bip_39_word_underscore_7: sniff_tennis_win_maximum_alien_attack_dignity
-bip_39_word_underscore_8: sniff_tennis_win_maximum_alien_attack_dignity_employ
-bip_39_word_underscore_9: sniff_tennis_win_maximum_alien_attack_dignity_employ_toss
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -486,6 +314,7 @@ price_200_distributor_accu: '0.02'
 price_200_distributor_orbital_fasteners: '0.0187'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0187'
 quantity_current: '200'
 short_code: sc3b8h

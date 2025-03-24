@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420675253'
-bip_39_word_dash_1: strategy
-bip_39_word_dash_10: strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow
-bip_39_word_dash_11: strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow-bubble
 bip_39_word_dash_12: strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow-bubble-already
 bip_39_word_dash_2: strategy-payment
 bip_39_word_dash_3: strategy-payment-burst
-bip_39_word_dash_4: strategy-payment-burst-blade
-bip_39_word_dash_5: strategy-payment-burst-blade-strike
-bip_39_word_dash_6: strategy-payment-burst-blade-strike-couple
-bip_39_word_dash_7: strategy-payment-burst-blade-strike-couple-snap
-bip_39_word_dash_8: strategy-payment-burst-blade-strike-couple-snap-antenna
-bip_39_word_dash_9: strategy-payment-burst-blade-strike-couple-snap-antenna-shrug
-bip_39_word_new_br_1: strategy
-bip_39_word_new_br_10: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow
-bip_39_word_new_br_11: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble
 bip_39_word_new_br_12: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug<br>swallow<br>bubble<br>already
 bip_39_word_new_br_2: strategy<br>payment
 bip_39_word_new_br_3: strategy<br>payment<br>burst
-bip_39_word_new_br_4: strategy<br>payment<br>burst<br>blade
-bip_39_word_new_br_5: strategy<br>payment<br>burst<br>blade<br>strike
-bip_39_word_new_br_6: strategy<br>payment<br>burst<br>blade<br>strike<br>couple
-bip_39_word_new_br_7: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap
-bip_39_word_new_br_8: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna
-bip_39_word_new_br_9: strategy<br>payment<br>burst<br>blade<br>strike<br>couple<br>snap<br>antenna<br>shrug
-bip_39_word_new_line_1: strategy
-bip_39_word_new_line_10: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple
-
-  snap
-
-  antenna
-
-  shrug
-
-  swallow'
-bip_39_word_new_line_11: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple
-
-  snap
-
-  antenna
-
-  shrug
-
-  swallow
-
-  bubble'
 bip_39_word_new_line_12: 'strategy
 
   payment
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'strategy
   payment
 
   burst'
-bip_39_word_new_line_4: 'strategy
-
-  payment
-
-  burst
-
-  blade'
-bip_39_word_new_line_5: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike'
-bip_39_word_new_line_6: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple'
-bip_39_word_new_line_7: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple
-
-  snap'
-bip_39_word_new_line_8: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple
-
-  snap
-
-  antenna'
-bip_39_word_new_line_9: 'strategy
-
-  payment
-
-  burst
-
-  blade
-
-  strike
-
-  couple
-
-  snap
-
-  antenna
-
-  shrug'
-bip_39_word_no_space_1: strategy
-bip_39_word_no_space_10: strategypaymentburstbladestrikecouplesnapantennashrugswallow
-bip_39_word_no_space_11: strategypaymentburstbladestrikecouplesnapantennashrugswallowbubble
 bip_39_word_no_space_12: strategypaymentburstbladestrikecouplesnapantennashrugswallowbubblealready
 bip_39_word_no_space_2: strategypayment
 bip_39_word_no_space_3: strategypaymentburst
-bip_39_word_no_space_4: strategypaymentburstblade
-bip_39_word_no_space_5: strategypaymentburstbladestrike
-bip_39_word_no_space_6: strategypaymentburstbladestrikecouple
-bip_39_word_no_space_7: strategypaymentburstbladestrikecouplesnap
-bip_39_word_no_space_8: strategypaymentburstbladestrikecouplesnapantenna
-bip_39_word_no_space_9: strategypaymentburstbladestrikecouplesnapantennashrug
-bip_39_word_space_0:
-- strategy
-- payment
-- burst
-- blade
-- strike
-- couple
-- snap
-- antenna
-- shrug
-- swallow
-- bubble
-- already
-bip_39_word_space_1: strategy
-bip_39_word_space_10: strategy payment burst blade strike couple snap antenna shrug
-  swallow
-bip_39_word_space_11: strategy payment burst blade strike couple snap antenna shrug
-  swallow bubble
 bip_39_word_space_12: strategy payment burst blade strike couple snap antenna shrug
   swallow bubble already
 bip_39_word_space_2: strategy payment
 bip_39_word_space_3: strategy payment burst
-bip_39_word_space_4: strategy payment burst blade
-bip_39_word_space_5: strategy payment burst blade strike
-bip_39_word_space_6: strategy payment burst blade strike couple
-bip_39_word_space_7: strategy payment burst blade strike couple snap
-bip_39_word_space_8: strategy payment burst blade strike couple snap antenna
-bip_39_word_space_9: strategy payment burst blade strike couple snap antenna shrug
-bip_39_word_underscore_1: strategy
-bip_39_word_underscore_10: strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow
-bip_39_word_underscore_11: strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow_bubble
 bip_39_word_underscore_12: strategy_payment_burst_blade_strike_couple_snap_antenna_shrug_swallow_bubble_already
 bip_39_word_underscore_2: strategy_payment
 bip_39_word_underscore_3: strategy_payment_burst
-bip_39_word_underscore_4: strategy_payment_burst_blade
-bip_39_word_underscore_5: strategy_payment_burst_blade_strike
-bip_39_word_underscore_6: strategy_payment_burst_blade_strike_couple
-bip_39_word_underscore_7: strategy_payment_burst_blade_strike_couple_snap
-bip_39_word_underscore_8: strategy_payment_burst_blade_strike_couple_snap_antenna
-bip_39_word_underscore_9: strategy_payment_burst_blade_strike_couple_snap_antenna_shrug
 box_of_box_size_manufacturer_metalmate: '36000'
 box_size_manufacturer_metalmate: '1000'
 classification: hardware
@@ -374,6 +201,7 @@ price_200_distributor_1: '0.0036'
 price_200_distributor_orbital_fasteners: '0.0036'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0023'
 quantity_current: '1000'
 short_code: w3

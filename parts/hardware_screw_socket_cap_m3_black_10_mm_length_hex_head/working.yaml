@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420695930'
-bip_39_word_dash_1: question
-bip_39_word_dash_10: question-silk-true-situate-raw-barrel-suspect-raw-position-round
-bip_39_word_dash_11: question-silk-true-situate-raw-barrel-suspect-raw-position-round-gift
 bip_39_word_dash_12: question-silk-true-situate-raw-barrel-suspect-raw-position-round-gift-alcohol
 bip_39_word_dash_2: question-silk
 bip_39_word_dash_3: question-silk-true
-bip_39_word_dash_4: question-silk-true-situate
-bip_39_word_dash_5: question-silk-true-situate-raw
-bip_39_word_dash_6: question-silk-true-situate-raw-barrel
-bip_39_word_dash_7: question-silk-true-situate-raw-barrel-suspect
-bip_39_word_dash_8: question-silk-true-situate-raw-barrel-suspect-raw
-bip_39_word_dash_9: question-silk-true-situate-raw-barrel-suspect-raw-position
-bip_39_word_new_br_1: question
-bip_39_word_new_br_10: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round
-bip_39_word_new_br_11: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift
 bip_39_word_new_br_12: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position<br>round<br>gift<br>alcohol
 bip_39_word_new_br_2: question<br>silk
 bip_39_word_new_br_3: question<br>silk<br>true
-bip_39_word_new_br_4: question<br>silk<br>true<br>situate
-bip_39_word_new_br_5: question<br>silk<br>true<br>situate<br>raw
-bip_39_word_new_br_6: question<br>silk<br>true<br>situate<br>raw<br>barrel
-bip_39_word_new_br_7: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect
-bip_39_word_new_br_8: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw
-bip_39_word_new_br_9: question<br>silk<br>true<br>situate<br>raw<br>barrel<br>suspect<br>raw<br>position
-bip_39_word_new_line_1: question
-bip_39_word_new_line_10: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel
-
-  suspect
-
-  raw
-
-  position
-
-  round'
-bip_39_word_new_line_11: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel
-
-  suspect
-
-  raw
-
-  position
-
-  round
-
-  gift'
 bip_39_word_new_line_12: 'question
 
   silk
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'question
   silk
 
   true'
-bip_39_word_new_line_4: 'question
-
-  silk
-
-  true
-
-  situate'
-bip_39_word_new_line_5: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw'
-bip_39_word_new_line_6: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel'
-bip_39_word_new_line_7: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel
-
-  suspect'
-bip_39_word_new_line_8: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel
-
-  suspect
-
-  raw'
-bip_39_word_new_line_9: 'question
-
-  silk
-
-  true
-
-  situate
-
-  raw
-
-  barrel
-
-  suspect
-
-  raw
-
-  position'
-bip_39_word_no_space_1: question
-bip_39_word_no_space_10: questionsilktruesituaterawbarrelsuspectrawpositionround
-bip_39_word_no_space_11: questionsilktruesituaterawbarrelsuspectrawpositionroundgift
 bip_39_word_no_space_12: questionsilktruesituaterawbarrelsuspectrawpositionroundgiftalcohol
 bip_39_word_no_space_2: questionsilk
 bip_39_word_no_space_3: questionsilktrue
-bip_39_word_no_space_4: questionsilktruesituate
-bip_39_word_no_space_5: questionsilktruesituateraw
-bip_39_word_no_space_6: questionsilktruesituaterawbarrel
-bip_39_word_no_space_7: questionsilktruesituaterawbarrelsuspect
-bip_39_word_no_space_8: questionsilktruesituaterawbarrelsuspectraw
-bip_39_word_no_space_9: questionsilktruesituaterawbarrelsuspectrawposition
-bip_39_word_space_0:
-- question
-- silk
-- 'true'
-- situate
-- raw
-- barrel
-- suspect
-- raw
-- position
-- round
-- gift
-- alcohol
-bip_39_word_space_1: question
-bip_39_word_space_10: question silk true situate raw barrel suspect raw position round
-bip_39_word_space_11: question silk true situate raw barrel suspect raw position round
-  gift
 bip_39_word_space_12: question silk true situate raw barrel suspect raw position round
   gift alcohol
 bip_39_word_space_2: question silk
 bip_39_word_space_3: question silk true
-bip_39_word_space_4: question silk true situate
-bip_39_word_space_5: question silk true situate raw
-bip_39_word_space_6: question silk true situate raw barrel
-bip_39_word_space_7: question silk true situate raw barrel suspect
-bip_39_word_space_8: question silk true situate raw barrel suspect raw
-bip_39_word_space_9: question silk true situate raw barrel suspect raw position
-bip_39_word_underscore_1: question
-bip_39_word_underscore_10: question_silk_true_situate_raw_barrel_suspect_raw_position_round
-bip_39_word_underscore_11: question_silk_true_situate_raw_barrel_suspect_raw_position_round_gift
 bip_39_word_underscore_12: question_silk_true_situate_raw_barrel_suspect_raw_position_round_gift_alcohol
 bip_39_word_underscore_2: question_silk
 bip_39_word_underscore_3: question_silk_true
-bip_39_word_underscore_4: question_silk_true_situate
-bip_39_word_underscore_5: question_silk_true_situate_raw
-bip_39_word_underscore_6: question_silk_true_situate_raw_barrel
-bip_39_word_underscore_7: question_silk_true_situate_raw_barrel_suspect
-bip_39_word_underscore_8: question_silk_true_situate_raw_barrel_suspect_raw
-bip_39_word_underscore_9: question_silk_true_situate_raw_barrel_suspect_raw_position
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -486,6 +314,7 @@ price_200_distributor_accu: '0.02'
 price_200_distributor_orbital_fasteners: '0.0187'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0187'
 quantity_current: '200'
 short_code: sc3b10h
