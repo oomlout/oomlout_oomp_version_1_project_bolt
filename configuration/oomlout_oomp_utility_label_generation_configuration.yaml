@@ -10,3 +10,6 @@
   file_output: label_76_2_mm_50_8_mm  
 - file_template: template/template_label_15_mm_30_mm.svg.j2
   file_output: label_15_mm_30_mm
+- file_template: template/template_bolt_oobb_4_width_2_length.svg.j2
+  file_output: label_bolt_oobb_4_width_2_length
+  test_attribute: oomlout_bolt_size
